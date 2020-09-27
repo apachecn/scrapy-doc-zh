@@ -33,6 +33,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install scrapy-doc-zh
+scrapy-doc-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
